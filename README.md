@@ -25,5 +25,6 @@ Copia el código Embed que aparece en bajo tu captura y pegalo en tu código HTM
 
 #### Uso:
 Cambia el valor de ```data-theme``` por el estilo que deseas.
+
 ```<blockquote class="jt-captys-embed" data-id="UbMzath" ```**``` data-theme="captys" ```**``` data-width="512" data-height="231">```
-```
+
