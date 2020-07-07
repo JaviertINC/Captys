@@ -18,10 +18,10 @@ Copia el código Embed que aparece en bajo tu captura y pegalo en tu código HTM
 ---
 
 ¡Puedes elegir 4 estilos disponibles!
-```captys``` (Original/Habilitado por defecto)
-```light```
-```dark```
-```darkgreen```
+- ```captys``` (Original/Habilitado por defecto)
+- ```light```
+- ```dark```
+- ```darkgreen```
 
 #### Uso:
 Cambia el valor de ```data-theme``` por el estilo que deseas.
